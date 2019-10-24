@@ -1,10 +1,10 @@
 # [Patatap](https://garrettyoung510.github.io/Patatap/)
 
-![Live Preview](https://media.giphy.com/media/L4BfL28rO61b5F5VWO/giphy.gif)
+![Live Preview](https://media.giphy.com/media/d8zwGB6O0VPFy0nNK6/giphy.gif)
 
 ## Reasoning/Motivation
 
-Built as a refresher on front end topics
+Built as a refresher on front end topics like sounds and animation
 
 ## Technologies Used
 * Vanilla JS 
